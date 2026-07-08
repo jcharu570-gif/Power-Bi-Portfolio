@@ -50,4 +50,10 @@ https://github.com/jcharu570-gif/Financial-Risky-Products-Dashboard
 
   Repository:
   https://github.com/jcharu570-gif/Trust_Weight_Rating
-  
+---
+### 6.Price Vs Satisfication
+-Risk Score
+-Critical Failure
+
+Repository:
+https://github.com/jcharu570-gif/Pricing_VS_Satisfication
